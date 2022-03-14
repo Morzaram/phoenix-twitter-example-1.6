@@ -1,6 +1,6 @@
 # Chirp
 
-Taken from [Chris Mccords Twitter Video](https://www.youtube.com/watch?v=MZvmYaFkNJI), this shows the updated version along with a delete function
+Taken from [Chris McCord's Twitter Video](https://www.youtube.com/watch?v=MZvmYaFkNJI), this shows the updated version along with a delete function
 
 Tip: If you want VS code in browser to view these files change github.com to github1s.com
 
@@ -21,4 +21,5 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 - Docs: https://hexdocs.pm/phoenix
 - Forum: https://elixirforum.com/c/phoenix-forum
 - Source: https://github.com/phoenixframework/phoenix
+
 # phoenix-twitter-example-1.6
